@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://user-images.githubusercontent.com/63858576/196353253-c8bcb59c-3f90-46f6-9413-5da1f8297d45.png)
 <!--
 **gochiAI/gochiAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
