@@ -2,7 +2,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,vue,git,gitlab,python,bash,firebase,php,ruby,dart&theme=light)](https://skillicons.dev)
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gochiAI&show_icons=true&include_all_commits=true&hide_border=true" alt="" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gochiAI&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
 ## My Future Projects
-- [usagi_AR](https://yumemi.web.app/usagi_AR/2.0)
-- [usagi_En_April](https://yumemi.web.app/usagiApril_EN/)
-- the24(a secret project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gochiAI&repo=usagi_AR)](https://github.com/gochiAI/usagi_AR)
