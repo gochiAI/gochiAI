@@ -7,4 +7,4 @@
 
 
 ## My Future Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gochiAI&repo=usagi_AR)](https://github.com/gochiAI/usagi_AR)
+[![Readme Card](https://github-readme-stats-omega-topaz-97.vercel.app/api/pin/?username=gochiAI&repo=usagi_AR)](https://github.com/gochiAI/usagi_AR)
